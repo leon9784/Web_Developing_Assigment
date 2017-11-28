@@ -1,0 +1,23 @@
+wallet
+
+wallet1 - Axel RFID Flip ID BiFold RM35
+Silhouette: Bifold
+Exterior Material: Bifold
+Interior Details: 8 Credit Card Slots, 1 Billfold Pocket, 2 Slide Pockets and 1 ID Window
+Measurements: 4.25"L x 0.50"W x 3.5"H
+Warranty: 1 Year Limited
+
+wallet2 - BO RFID BiFold RM35
+Silhouette: Bifold
+Exterior Material: Bifold
+Interior Details: 8 Credit Card Slots, 1 Billfold Pocket, 2 Slide Pockets and 1 ID Window
+Measurements: 4.25"L x 0.60"W x 3.5"H
+Warranty: 1 Year Limited
+
+wallet3 - Oliver RFID Flip ID BiFold RM35
+Silhouette: Bifold
+Exterior Material: Bifold
+Interior Details: 8 Credit Card Slots, 1 Billfold Pocket, 2 Slide Pockets and 2 ID Window
+Measurements: 4.25"L x 0.60"W x 3.5"H
+Warranty: 1 Year Limited
+

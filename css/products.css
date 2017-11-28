@@ -1,0 +1,27 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left:180px;
+  margin-left:180px;
+}
+
+.product-card {
+  flex: 1 16%%;
+   margin-left:35px;
+}
+
+img
+{
+	width:300px;
+	height:300px;
+}
+
+#fb,#insta{
+	width:27px;
+	height:27px;
+}
+
+.product-name {
+	font-size: 14px;
+	font-weight: bold;
+}

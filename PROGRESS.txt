@@ -1,0 +1,4 @@
+1 => breadcrumb (optional but maybe title of page can set)
+2 => swtich all files to php and in folders
+3 => see whether to add few more items
+4 => contact us 
